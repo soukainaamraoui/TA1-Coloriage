@@ -2,9 +2,9 @@
 Rendu du TA1 informatique. Nous avons fait une application de coloriage très simple.
 
 Remarques :
-- Il faut avoir le fichier code "main" et le png "..." dans le même répertoire.
-- Credit pour le line de l'image:
-- credit pour le personnage:
+- Il faut avoir le fichier code "main.py" et le png "link.png" dans le même répertoire.
+- Credit pour le line de l'image : SuperColoring
+- credit pour le personnage : Nintendo
 
 Lancement :
 - Lancer le main
