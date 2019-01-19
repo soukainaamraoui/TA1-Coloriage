@@ -72,7 +72,7 @@ class ColorApp(App):
             self.fond = Rectangle(size=dessin.size, pos=dessin.pos)
 
         with dessin.canvas.after:
-            self.rect = Image(source = 'jin.png')  # l'image doit être dans le dossier du main
+            self.rect = Image(source = 'link.png')  # l'image doit être dans le dossier du main
 
         #Définition du panel
         panel = BoxLayout(orientation='vertical', size_hint=(None, 1))
