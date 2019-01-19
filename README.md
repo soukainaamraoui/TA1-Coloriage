@@ -13,8 +13,7 @@ Lancement :
 - Vous coloriez tant que vous restez appuyé
 
 Description de la barre d'outil :
-- Le 1er bouton "Menu" : ne sert à rien pour le moment. Pourra mener à un menu avec d'autre dessin dans la version 2.0
-- Le 2eme bouton "clear" : efface TOUTES les couleurs, remet le dessin à zéro
+- Le 1eme bouton "clear" : efface TOUTES les couleurs, remet le dessin à zéro
 - SIZE correspond à la taille du feutre qui peut être modifié avec le slide juste en dessous.
 - La palette de couleurs : il suffit d'appuyer sur une couleur pour la choisir
 
